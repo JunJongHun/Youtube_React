@@ -1,12 +1,12 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import List from "./components/list";
+import VideoList from "./components/video_list";
 
 function App() {
   return (
     <div>
-      <List></List>
+      <VideoList></VideoList>
     </div>
   );
 }
